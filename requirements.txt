@@ -7,4 +7,4 @@ lxml
 Flask-WTF
 Flask
 Bootstrap-Flask
-﻿aiohttp
+
