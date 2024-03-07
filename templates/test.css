@@ -1,0 +1,14 @@
+.row{
+    display: flex;
+}
+.one{
+    width: 200px;
+    height: 200px;
+    background-color: gainsboro;
+}
+
+.two{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
