@@ -1,5 +1,4 @@
 WTForms
-Werkzeug
 requests
 pandas
 Jinja2
